@@ -1,8 +1,8 @@
 ---
-title: "notesChristine751pm"
-output:
-  pdf_document: default
-  html_document: default
+title: "Title"
+output: 
+  github_document: 
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
